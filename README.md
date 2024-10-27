@@ -74,5 +74,5 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## **Contact**
 For any inquiries, reach out to:
-**Your Name** – yuvarajr0326@gmail.com  
+**yuvaraj** – yuvarajr0326@gmail.com  
 GitHub:yuvarajgitcat(https://github.com/yuvarajgitcat)
