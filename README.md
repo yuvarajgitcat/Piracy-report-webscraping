@@ -7,6 +7,7 @@ format (Excel/CSV) for further analysis.
 
 ## **Features**
 - Extracts incident reports with key details:
+![Piracy Report Scraping](https://github.com/yuvarajgitcat/Piracy-report-webscraping/blob/main/webscrapping%20page.jpg)
   - **Incident Date**
   - **Attack Type**
   - **Vessel Type**
