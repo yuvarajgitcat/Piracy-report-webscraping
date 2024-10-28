@@ -14,9 +14,10 @@ format (Excel/CSV) for further analysis.
   - **Location Details** and **Coordinates**
   - **Incident Narration**
 - Fetches data dynamically by scraping report URLs from the main page (url bellow).
-- ## **Useful Resources**
-- [Visit IMB Piracy Reporting Center](https://www.icc-ccs.org/index.php/piracy-reporting-centre/live-piracy-report)
 - Outputs the scraped data as an Excel file for analysis.
+
+## **Useful Resources**
+- [Visit IMB Piracy Reporting Center](https://www.icc-ccs.org/index.php/piracy-reporting-centre/live-piracy-report)
 
 ## **Technologies Used**
 - **Python**
